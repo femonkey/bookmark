@@ -348,8 +348,14 @@ const website = [
             {
                 name:'docsify',
                 url:'https://docsify.js.org/#/?id=docsify'
+            },{
+                name:'请求 mitmproxy',
+                url:' https://www.mitmproxy.org/'
+            },{
+                name:'js中文',
+                url:'https://zh.javascript.info/'
             }
-            
+           
         ]
     },
 ]
